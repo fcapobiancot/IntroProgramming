@@ -11,7 +11,7 @@ int main() {
 
     suma = (num1 + num2);
 
-    cout << "La parte entera de la suma es:  " << suma << endl;
+    cout << "La parte entera de la suma es: " << suma << endl;
 
     return 0;
 }
